@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Sebastian Otara👋</h1>
 </div>
-<img src="https://imgur.com/a/DNhc7uK">
+<img src="https://i.imgur.com/i2LeTeA.png">
 <!--
 **sebastianfabrizio/sebastianfabrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

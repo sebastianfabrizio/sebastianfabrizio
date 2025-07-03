@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Sebastian Otara👋</h1>
 </div>
-<img src="https://res.cloudinary.com/ddrdty86t/image/upload/v1751586443/banner_pcriuv.png">
+<img src="https://res.cloudinary.com/ddrdty86t/image/upload/v1751586569/banner_hwyipj.png">
 <!--
 **sebastianfabrizio/sebastianfabrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

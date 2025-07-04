@@ -62,8 +62,11 @@ control de asistencia, ventas, etc.
 
 ## 📊 Estadísticas de GitHub
 
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastianfabrizio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianfabrizio&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianfabrizio&show_icons=true&theme=radical&hide_border=false&locale=es" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianfabrizio&layout=compact&theme=radical&hide_border=false" width="400"/>
+</div>
+
 
 
 

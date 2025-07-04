@@ -5,17 +5,12 @@
 
 
 ```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+- 👩🏻‍💻 Objetivos: Mi objetivo como profesional es dar y recibir conocimientos, ser feliz con lo que hago y salir adelante. Por otro lado, como persona un trabajo me ayudaría a tener comunicación, a recordar que todo es en equipo y siempre respetar la opinión de los que me rodean.
+- 🚀 Pasión: Me gusta programar y realizar proyectos que ayudan a las personas
+- 🧑🏻‍🎓 Estudios: Soy egresado de Computación e Informática en Cibertec, actualmente he convalidado con la universidad UPC para Ingeniería de sistemas.
+- ⚙️ Trabajos: He realizado variedades de proyectos como sistema de inventario, gestión de planilla, control de asistencia, ventas, etc.
+- 💻 Las tecnologías que más me gustan son: .NET, Angular, Spring boot, Sql Server, MySql y Bootstrap.
+
 ```
 
 

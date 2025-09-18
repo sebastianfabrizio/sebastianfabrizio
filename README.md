@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Sebastian Otara👋</h1>
 </div>
 <div align="center">
-  <img src="https://res.cloudinary.com/ddrdty86t/image/upload/v1758229005/ad14ebd4-d76a-4abf-b01e-0a7e70dd642a_llorxz.png" width="220">
+  <img src="https://res.cloudinary.com/ddrdty86t/image/upload/v1758229005/ad14ebd4-d76a-4abf-b01e-0a7e70dd642a_llorxz.png" heigth="110" width="220">
 </div>
 
 
